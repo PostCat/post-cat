@@ -83,8 +83,8 @@ const stats = [
 
 const pricingPlans = [
   { name: "Free", price: "৳0", desc: "For individuals getting started", features: ["10 posts/month", "1 social account", "Basic scheduling", "Community support"], popular: false },
-  { name: "Pro", price: "৳2,900", desc: "For growing creators and teams", features: ["Unlimited posts", "5 social accounts", "Automation add-ons", "Full API access", "Priority support", "Analytics dashboard"], popular: true },
-  { name: "Enterprise", price: "৳9,900", desc: "For agencies and large teams", features: ["Everything in Pro", "Unlimited accounts", "Dedicated API endpoint", "Custom integrations", "24/7 phone support", "SLA guarantee"], popular: false },
+  { name: "Pro", price: "৳999", desc: "For growing creators and teams", features: ["Unlimited posts", "5 social accounts", "Automation add-ons", "Full API access", "Priority support", "Analytics dashboard"], popular: true },
+  { name: "Enterprise", price: "৳1999", desc: "For agencies and large teams", features: ["Everything in Pro", "Unlimited accounts", "Dedicated API endpoint", "Custom integrations", "24/7 phone support", "SLA guarantee"], popular: false },
 ];
 
 const LandingPage = () => {
