@@ -102,7 +102,7 @@ const LandingPage = () => {
             <motion.div initial="hidden" animate="visible" variants={stagger}>
               <motion.div variants={fadeUp} className="inline-flex items-center gap-2 rounded-full border border-primary/20 bg-primary/5 px-4 py-1.5 text-sm text-primary mb-8 shimmer">
                 <Zap className="h-3.5 w-3.5" />
-                Now with Automation Add-ons
+                Site Under Development
                 <ChevronRight className="h-3.5 w-3.5" />
               </motion.div>
               <motion.h1 variants={fadeUp} className="text-4xl sm:text-5xl md:text-6xl lg:text-[4.25rem] font-bold leading-[1.08] tracking-tight">
